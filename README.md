@@ -29,7 +29,7 @@ The system is capable of logging sensor data to onboard storage, transmitting te
 **Inertial Measurement Unit (IMU)**
 - LSM6DSO32 6-axis accelerometer + gyroscope (SPI interface)
 - 3-axis acceleration and rotation rate measurement
-- Critical for apogee detection via vertical acceleration
+- Can be used for apogee detection via vertical acceleration
 
 **Barometric Sensors (Dual Redundancy)**
 - Primary: BMP390 (SPI interface) - 300-1100 hPa range
